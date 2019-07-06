@@ -3,7 +3,8 @@
 Course:Machine learning 101
 
 Capstone project: Quora Insincere question classification 
-https://www.kaggle.com/c/quora-insincere-questions-classification
+
+  https://www.kaggle.com/c/quora-insincere-questions-classification
 
 Group members:
 
